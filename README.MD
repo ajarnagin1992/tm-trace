@@ -1,4 +1,4 @@
-# Project 2: Turing Machine Parser and Trace Program
+# Turing Machine Parser and Trace Program
 
 
 ## How to use:
